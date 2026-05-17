@@ -18,3 +18,6 @@ https://overthewire.org/wargames/
 
 # LeetCode
 https://leetcode.com/u/user8590nm/
+
+# AI Security
+https://gandalf.lakera.ai/gandalf-the-white
